@@ -19,7 +19,7 @@
 /* Button */
 
 .btn:hover{
-    color:white;
+    color: rgb(255, 0, 140);
 }
 
 
@@ -48,4 +48,8 @@
 .card:hover{
     transform: scale(1.1);
     box-shadow: 1px 2px 10px black;
+}
+
+.color{
+    color: rgb(255, 0, 140);
 }
